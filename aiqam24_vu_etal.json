@@ -1,0 +1,27 @@
+{
+  "title": "A ChatGPT-based approach for questions generation in higher education",
+  "authors": [
+    "Sinh Trong Vu",
+    "Huong Thu Truong",
+    "Oanh Tien Do",
+    "Tu Anh Le",
+    "Tai Tan Mai"
+  ],
+  "venue": "AIQAM'24 Workshop on AI-Powered Question Answering Systems for Multimedia (ICMR 2024)",
+  "location": "Phuket, Thailand",
+  "dates": "2024-06-10 to 2024-06-14",
+  "year": 2024,
+  "keywords": [
+    "large language models",
+    "ChatGPT",
+    "question generation",
+    "higher education",
+    "prompt engineering",
+    "assessment",
+    "question bank",
+    "LLM evaluation"
+  ],
+  "pdf_path": "papers/AIQAM_24/AIQAM_24_paper.pdf",
+  "abstract": "This paper explores how to employ ChatGPT to generate university-level question banks. We outline prompt patterns and workflows for multi-type questions (e.g., MCQ, short answer) and build a question bank for a real course. To assess quality and usefulness, we conduct a Blind Test with lecturers and students. Findings indicate strong potential for reducing the time and effort required for assessment design while maintaining quality.",
+  "doi": null
+}
