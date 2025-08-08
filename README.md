@@ -2,7 +2,7 @@
 AIQAM’24 paper A ChatGPT-based approach for questions generation in higher education to the project. The work investigates prompt patterns for using ChatGPT to build university-level question banks, and evaluates quality via a “Blind Test” with lecturers and students; initial results are promising for reducing assessment time/effort.
 # A ChatGPT-based approach for questions generation in higher education
 
-**Authors:** Sinh Trong Vu, Huong Thu Truong, Oanh Tien Do, Tu Anh Le, Tai Tan Mai  
+**Authors:** Sinh Trong Vu, Huong Thu Truong, Oanh Tien Do, Tu Anh Le (me), Tai Tan Mai  
 **Workshop:** AIQAM’24: Workshop on AI-Powered Question Answering Systems for Multimedia @ ACM ICMR 2024 (Phuket, Thailand, June 10–14, 2024)
 
 ## Abstract
